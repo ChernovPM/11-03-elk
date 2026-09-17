@@ -106,7 +106,7 @@ Logstash считывал файл `access.log` и отправлял данны
 
 
 
-`nginx-logstash-\*`
+`nginx-logstash-*`
 
 
 
@@ -142,7 +142,7 @@ Filebeat считывал тот же файл:
 
 
 
-`nginx-filebeat-\*`
+`nginx-filebeat-*`
 
 
 
